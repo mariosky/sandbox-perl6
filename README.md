@@ -1,4 +1,4 @@
-## sandbox-go
+## sandbox-perl6
 
 A docker container based on alpine for running perl6 unittests in a sandbox.
 
