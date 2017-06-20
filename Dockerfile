@@ -1,4 +1,4 @@
-FROM mariosky/perl6_base
+FROM mariosky/sandbox-perl6base
 
 #Basic setup and programs
 RUN apk update &&  apk upgrade \
